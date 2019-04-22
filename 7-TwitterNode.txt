@@ -1,0 +1,1 @@
+[{"id":"9dde53c5.c87ce","type":"twitter in","z":"bf6d3e2b.d49bc","twitter":"","tags":"#rpi, #raspberrypi","user":"false","name":"","inputs":0,"x":140,"y":180,"wires":[["4966911f.a1af"]]},{"id":"4966911f.a1af","type":"debug","z":"bf6d3e2b.d49bc","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":500,"y":180,"wires":[]}]

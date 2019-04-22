@@ -1,0 +1,1 @@
+[{"id":"c55e44e3.dacd88","type":"rpi-sensehat in","z":"d0234611.29cbf8","name":"","motion":false,"env":true,"stick":false,"x":140,"y":240,"wires":[["edd2be97.0fdfa"]]},{"id":"edd2be97.0fdfa","type":"debug","z":"d0234611.29cbf8","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":370,"y":240,"wires":[]}]
